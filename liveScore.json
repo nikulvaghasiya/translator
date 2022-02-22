@@ -1,4 +1,5 @@
- "error":false,
+{ 
+           "error":false,
             "isNewApp":false,
             "app_pkg":"downloader.mp3",
             "AdmobBannr":"ca-app-pub-3940256099942544/6300978111",
@@ -11,3 +12,4 @@
             "admob_app_id":"ca-app-pub-3940256099942544~3026104813",
             "isLive":"yes",
             "adType":"admob"
+}
